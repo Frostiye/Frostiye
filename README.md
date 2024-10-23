@@ -1,5 +1,6 @@
 # A little about me
-I'm 20 y/o and, self-taught developer, as it has been my hobby for many years and more to come.
+I'm 21 years old, I'm a self-taught developer.
+Creating/Coding/Developing has been something I've been passionate about for a while now.
 
 # I have experience with, but not limited to:
 - PowerShell 2023 -
