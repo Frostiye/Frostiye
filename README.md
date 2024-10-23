@@ -3,6 +3,6 @@ I'm 20 y/o and, self-taught developer, as it has been my hobby for many years an
 
 # I have experience with, but not limited to:
 - PowerShell 2023 -
-- JSON & Python 2016 -
-- HTML5 & CSS 2017~ - 2018~
+- HTML5 & CSS 2017~ -
+- Python 2016 -
 - Scratch & Hopscotch 2011~ - 2015~
